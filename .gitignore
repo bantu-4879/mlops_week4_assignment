@@ -1,4 +1,3 @@
 mlops_week4
-!.dvc
-.github/workflows
-
+/data/iris.csv
+/model.joblib
